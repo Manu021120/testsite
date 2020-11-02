@@ -32,7 +32,7 @@ h2 {
 }
 
 #nav {
-  background-color:  ##ff0000;
+  background-color:  #ff0000;
   text-align: center;
   list-style-type: none;
  }
@@ -47,7 +47,7 @@ h2 {
 }
 
 #nav li:hover { 
-  background-color: ##ff0000;
+  background-color: #ff0000;
 }
 
 /********************** CONTENT *************************/
