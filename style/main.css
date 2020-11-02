@@ -1,0 +1,62 @@
+/********************** GENERAL *************************/
+body {
+   font-family: Corbel, Arial, sans-serif;
+   margin: 0px;
+}
+
+a {
+   color:#000000;
+   text-decoration: none;
+}
+
+/********************** HEADER *************************/
+ 
+#header {
+  background-color: #00cc66;
+
+}
+
+h1 {
+  font-size: 36px
+  margin: 0px;
+  text-align: center;
+  padding-top: 15px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  margin: 0px;
+  color: #ffffff
+}
+
+#nav {
+  background-color:  #00994d;
+  text-align: center;
+  list-style-type: none;
+ }
+
+#nav li { 
+  display: inline-block;
+  padding: 6px 8px 6px 8px;
+}
+
+#nav li a { 
+  color: #ffffff
+}
+
+#nav li:hover { 
+  background-color: #00cc66
+}
+
+/********************** CONTENT *************************/
+
+#content {
+  width: 600PX;
+  margin: 30px auto;
+}
+
+#content h4{
+  border-bottom: #00994d solid 3px;
+}
