@@ -28,11 +28,11 @@ h1 {
 h2 {
   text-align: center;
   margin: 0px;
-  color: #ffffff
+  color: #ffffff;
 }
 
 #nav {
-  background-color: #ff0000;
+  background-color: #00cc66;
   text-align: center;
   list-style-type: none;
  }
@@ -43,7 +43,7 @@ h2 {
 }
 
 #nav li a { 
-  color: #ffffff
+  color: #00cc66;
 }
 
 #nav li:hover { 
